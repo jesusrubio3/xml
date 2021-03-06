@@ -27,7 +27,13 @@ def numjugadores(fichero):
         num=fichero.xpath('count(/League/Team[@id="%s"]/Players/person)'%i)
         diccionario={i:num}
         lista.append(diccionario)
-        
+
     return lista
+
+def delanteros(delanequipo,fichero):
+    delan=fichero.xpath('/League/Team[@id="%s"]/Players/person[Position="DC"]/first_name/text()'%delanequipo)
+    return delan
+
+
         
 
