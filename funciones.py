@@ -19,3 +19,15 @@ def equipos(fichero):
     listado=fichero.xpath('/League/Team/@id')
     return listado
 
+def numjugadores(fichero):
+    diccionario={}
+    lista=[]
+    nombreeqipos=equipos(fichero)
+    for i in nombreeqipos:
+        num=fichero.xpath('count(/League/Team[@id="%s"]/Players/person)'%i)
+        diccionario={i:num}
+        lista.append(diccionario)
+        
+    return lista
+        
+
