@@ -40,6 +40,20 @@ def equipojugador(jugador,fichero):
     equipo=fichero.xpath('//person[first_name="%s"]/../../@id'%jugador2)
     return equipo
 
+def estadio(fichero):
+    diccionario={}
+    lista=[]
+    nombreeqipos=equipos(fichero)
+    for i in nombreeqipos:
+        anio=fichero.xpath('/League/Team[@id="%s"]/anio/text()'%i)
+        diccionario={i:anio}
+        lista.append(diccionario)
+    
+    
+
+    
+    return lista
+
 
         
 

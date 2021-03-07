@@ -1,4 +1,4 @@
-from funciones import menu,lectura_xml,equipos,numjugadores,delanteros,equipojugador
+from funciones import menu,lectura_xml,equipos,numjugadores,delanteros,equipojugador,estadio
 
 archivo=lectura_xml("liga.xml")
 menu2=menu()
@@ -31,4 +31,22 @@ while menu2!=6:
         else:
             for i in equipojugador(jugador,archivo):
                 print("El equipo de %s es el %s"%(jugador,i))
+    
+    if menu2==5:
+        anio=[]
+        for i in estadio(archivo):
+            for j in i.values():
+                for z in j:
+                    z=int(z)
+                    anio.append(z)
+        antiguo=min(anio)
+        antiguo=str(antiguo)
+        
+        for i in estadio(archivo):
+            for estadio,age in i.items():
+                for x in age:
+                    if x==antiguo:
+                        print("el estadio más antiguo es el del %s"%estadio)
+                
+        
     menu2=menu()

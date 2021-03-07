@@ -20,6 +20,7 @@
    <description>El Arsenal fue fundado en 1886 en Woolwich, en el sudeste de Londres. En 1893, se convirtió en el primer club del sur de Inglaterra en unirse a la Football League. En 1913 se mudaron a la parte norte de la ciudad hacia Highbury con sede en el Arsenal Stadium. En 2006 dejaron Highbury para jugar sus partidos de local en el nuevo Emirates Stadium, en Islington. uno de los equipos con más trofeos ganados del fútbol inglés. Ha ganado 13 títulos de Primera División y 11 Copas de Inglaterra. Es el único conjunto inglés que consiguió ganar la Premier League de manera invicta (temporada 2003/04).</description>
    <City>Londres </City>
    <Stadium>Emirates Stadium </Stadium>
+   <anio>1900</anio>
    
    <Players>
       <person>
@@ -108,6 +109,7 @@
    <description>Es uno de los equipos más antiguos y laureados de Inglaterra, habiendo ganado siete veces la First Division Championship, otras siete la FA Cup, 5 Football League Cup y 1 Community Shield. También ganó en 1982 la Copa de Europa, actualmente conocida como la UEFA Champions League, </description>
    <City>Londres </City>
    <Stadium>Villa Park </Stadium>
+   <anio>1932</anio>
    <Players> 
       <person>
       <first_name>Nolberto Solano</first_name>
@@ -172,6 +174,7 @@
    <description>El Burnley Football Club es un club de fútbol de la ciudad inglesa de Burnley, en el condado de Lancashire. Fue fundado en 1882 y juega en la Premier League tras ascender en la temporada 2013/14</description>
    <City>Londres </City>
    <Stadium>Burnley </Stadium>
+   <anio>1924</anio>
    <Players> </Players>
 
 </Team>
@@ -186,6 +189,7 @@
 El Chelsea tuvo su primer momento de éxito en 1955, cuando ganó su primer campeonato de liga. Chelsea también consiguió importantes competiciones de copa durante los años 1960 y años 1970, pero no logró consagrarse en alguna otra hasta 1997. El más importante período de éxito del Chelsea fue cuando se consagró campeón de la Premier League en las temporadas 2004-05, 2005-06 y 2009-10 y cuando logró llegar a la final de la Liga de Campeones de la UEFA en la temporada 2007-08 y coronarse campeón de la edición 2011-12. El club también logró consagrase como el número 1 del Ránking de la UEFA en 2008, siendo el primer club inglés en haber logrado este galardón en el Siglo XXI</description>
    <City>Londres </City>
    <Stadium>Stamford Bridge </Stadium>
+   <anio>1911</anio>
    <Players> 
       <person>
       <first_name>Gianfranco Zola</first_name>
@@ -252,6 +256,7 @@ El Chelsea tuvo su primer momento de éxito en 1955, cuando ganó su primer camp
    <description>Crystal Palace Football Club es un club de fútbol de Inglaterra, de la parte sur de la ciudad de Londres. Fue fundado en 1905. Durante la temporada 2012-13 de la Football League Championship (Segunda División Del Fútbol Ingles), Palace terminó quinto y ganó el ascenso a la Premier League a través de los play-offs. En su primera temporada luego de ocho años en segunda división el Crystal Palace terminó 11 en la tabla, lo que le valió a Tony Pulis ser nombrado como Entrenador del Año de la Premier League</description>
    <City>Londres </City>
    <Stadium>Crystal Palace </Stadium>
+   <anio>1899</anio>
    <Players> </Players>
 
 </Team>
@@ -266,6 +271,7 @@ El Chelsea tuvo su primer momento de éxito en 1955, cuando ganó su primer camp
    <description>El Everton Football Club es un club de fútbol del Reino Unido, de la ciudad de Liverpool en el condado de Merseyside. El club compite en la Premier League, la competición más prestigiosa del fútbol británico. Ha competido en la liga de más alto nivel con un récord de 108 temporadas, ha jugado más partidos en estas ligas más que ningún otro equipo británico y ha salido campeón 9 veces—es el cuarto equipo con más copas de la liga.1 Everton ha permanecido en la Premier League desde 1954, y fue miembro fundador de la Premier League en 1992.</description>
    <City>Londres </City>
    <Stadium>Everton </Stadium>
+   <anio>1924</anio>
    <Players> </Players>
 
 </Team>
@@ -279,6 +285,7 @@ El Chelsea tuvo su primer momento de éxito en 1955, cuando ganó su primer camp
    <description>El Hull City es un club de fútbol de Inglaterra, de la ciudad de Kingston upon Hull en Yorkshire. Fue fundado en 1904 y a partir de la temporada 2013/14 se desempeña en la Premier League, la máxima división del fútbol inglés.</description>
    <City>Londres </City>
    <Stadium>Hull</Stadium>
+   <anio>1902</anio>
    <Players> </Players>
 
 </Team>
@@ -294,6 +301,7 @@ El Chelsea tuvo su primer momento de éxito en 1955, cuando ganó su primer camp
 El Leicester City fue elegido para disputar la Football League en 1894. El logro más alto en la historia del club a nivel liga fue el haber alcanzado el segundo lugar en la máxima categoría en 1928-1929. El club tiene siete títulos de segunda división (seis Second Division y uno Football League Championship) y uno más de la Football League One. También han ganado la Copa de la Liga en tres ocasiones y han sido subcampeones de la FA Cup cuatro veces, un record de derrotas en finales en donde aún siguen sin haber logrado el título.</description>
    <City>Londres </City>
    <Stadium>Leicester </Stadium>
+   <anio>1920</anio>
    <Players> </Players>
 
 </Team>
@@ -311,6 +319,7 @@ Liverpool es el equipo inglés con el mayor número de títulos de Campeón de E
    </description>
    <City>Londres </City>
    <Stadium>Liverpool </Stadium>
+   <anio>1905</anio>
    <Players> </Players>
 
 </Team>
@@ -327,6 +336,7 @@ Después de perder la final de la FA Cup de 1981, el club pasó por un período 
    </description>
    <City>Londres </City>
    <Stadium>ManchesterCity </Stadium>
+   <anio>1898</anio>
    <Players> </Players>
 
 </Team>
@@ -347,6 +357,7 @@ En la cultura popular, es considerado como uno de los más populares del mundo,1
    </description>
    <City>Londres </City>
    <Stadium>Manchester United </Stadium>
+   <anio>1910</anio>
    <Players> </Players>
 
 </Team>
@@ -364,6 +375,7 @@ Tras la fusión de los dos clubes originarios en 1882, el Newcastle United sigui
 El club ha sostenido una añeja rivalidad con sus vecinos Sunderland A.F.C. desde la primera vez que se enfrentaron en 1898</description>
    <City>Londres </City>
    <Stadium>Newcastle </Stadium>
+   <anio>1907</anio>
    <Players> </Players>
 
 </Team>
@@ -379,6 +391,7 @@ El club ha sostenido una añeja rivalidad con sus vecinos Sunderland A.F.C. desd
 En agosto de 2007 el QPR fue comprado por el magnate de la Fórmula 1, Bernie Ecclestone y Flavio Briatore, que vendió un 20% a la familia del magnate de acero Lakshmi Mittal en diciembre de aquel año. Alejandro Agag también entró junto a Briatore en el accionariado del club.</description>
    <City>Londres </City>
    <Stadium>QPR </Stadium>
+   <anio>1950</anio>
    <Players> </Players>
 
 </Team>
@@ -397,6 +410,7 @@ En diciembre de 1973, el longevo técnico Ted Bates se retiró para ser reemplaz
    </description>
    <City>Londres </City>
    <Stadium>Southampton </Stadium>
+   <anio>1920</anio>
    <Players> </Players>
 
 </Team>
@@ -415,6 +429,7 @@ El lema del club es Audere est facere (to dare is to do), que en español signif
    </description>
    <City>Londres </City>
    <Stadium>Spurs </Stadium>
+   <anio>1903</anio>
    <Players> </Players>
 
 </Team>
@@ -429,6 +444,7 @@ El lema del club es Audere est facere (to dare is to do), que en español signif
    </description>
    <City>Londres </City>
    <Stadium>Stoke </Stadium>
+   <anio>1900</anio>
    <Players> </Players>
 
 </Team>
@@ -445,6 +461,7 @@ El Sunderland supo saborear las mieles de la victoria cuando arrasaba en Inglate
    </description>
    <City>Londres </City>
    <Stadium>Sunderland </Stadium>
+   <anio>1901</anio>
    <Players> </Players>
 
 </Team>
@@ -463,6 +480,7 @@ El Swansea City es uno de los 6 equipos galeses que participan en la liga ingles
    </description>
    <City>Londres </City>
    <Stadium>Swansea </Stadium>
+   <anio>1902</anio>
    <Players> </Players>
 
 </Team>
@@ -479,6 +497,7 @@ El lema en el escudo de armas de la ciudad proclama en latín "Labor omnia vinci
    </description>
    <City>Londres </City>
    <Stadium>Westbrom </Stadium>
+   <anio>1900</anio>
    <Players> </Players>
 
 </Team>
@@ -504,6 +523,7 @@ Su última alegría continental llegó en 1999, cuando ganó la Copa Intertoto, 
    </description>
    <City>Londres </City>
    <Stadium>West Ham </Stadium>
+   <anio>1910</anio>
    <Players> </Players>
 
 </Team>
