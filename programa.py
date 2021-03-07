@@ -1,4 +1,4 @@
-from funciones import menu,lectura_xml,equipos,numjugadores,delanteros
+from funciones import menu,lectura_xml,equipos,numjugadores,delanteros,equipojugador
 
 archivo=lectura_xml("liga.xml")
 menu2=menu()
@@ -23,4 +23,12 @@ while menu2!=6:
                 print("no tiene delanteros.")
             else:   
                 print(i)
+    if menu2==4:
+        jugador=input("introduce un jugador: ")
+        
+        if len(equipojugador(jugador,archivo))==0:
+                print("ese jugador no está en la liga")
+        else:
+            for i in equipojugador(jugador,archivo):
+                print("El equipo de %s es el %s"%(jugador,i))
     menu2=menu()

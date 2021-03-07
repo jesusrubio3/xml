@@ -34,6 +34,12 @@ def delanteros(delanequipo,fichero):
     delan=fichero.xpath('/League/Team[@id="%s"]/Players/person[Position="DC"]/first_name/text()'%delanequipo)
     return delan
 
+def equipojugador(jugador,fichero):
+    jugador2=jugador.title()
+    
+    equipo=fichero.xpath('//person[first_name="%s"]/../../@id'%jugador2)
+    return equipo
+
 
         
 
